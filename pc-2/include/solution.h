@@ -7,4 +7,5 @@ using std::vector;
 class Solution {
 public:
   int longestSubarray(vector<int> &nums, int limit);
+  int longestSubarrayNaive(vector<int> &nums, int limit);
 };
