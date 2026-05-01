@@ -1,0 +1,2 @@
+add_executable(bench_longest_subarray bench_longest_subarray.cpp)
+target_link_libraries(bench_longest_subarray PRIVATE solution)

@@ -1,0 +1,2 @@
+add_executable(demo_longest_subarray demo_longest_subarray.cpp)
+target_link_libraries(demo_longest_subarray PRIVATE solution)
