@@ -39,8 +39,8 @@ message(STATUS "CXX Flags: ${CMAKE_CXX_FLAGS}")
 
 enable_testing()
 
-# add_subdirectory(pc-1)
-add_subdirectory(pc-2)
-# add_subdirectory(pc-3)
-# add_subdirectory(pc-4)
-# add_subdirectory(pc-5)
+# add_subdirectory(practica/pc-1)
+add_subdirectory(practica/pc-2)
+# add_subdirectory(practica/pc-3)
+# add_subdirectory(practica/pc-4)
+# add_subdirectory(practica/pc-5)
