@@ -41,6 +41,6 @@ enable_testing()
 
 # add_subdirectory(practica/pc-1)
 add_subdirectory(practica/pc-2)
-# add_subdirectory(practica/pc-3)
+add_subdirectory(practica/pc-3)
 # add_subdirectory(practica/pc-4)
 # add_subdirectory(practica/pc-5)
