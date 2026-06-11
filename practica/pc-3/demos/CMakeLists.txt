@@ -1,0 +1,2 @@
+add_executable(demo_frequency_stack demo_frequency_stack.cpp)
+target_include_directories(demo_frequency_stack PRIVATE ../include)
